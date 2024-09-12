@@ -1,0 +1,6 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <GetSystemInstanceList xmlns="urn:SAPControl">
+        </GetSystemInstanceList>
+    </soap:Body>
+</soap:Envelope>
